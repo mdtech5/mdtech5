@@ -5,7 +5,7 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <br>
-<img align="right" src="https://komarev.com/ghpvc/?username=mdtech5&label=Profile%20views&color=0e75b6&style=flat" alt="mdtech5" " />
+<img align="right" src="https://komarev.com/ghpvc/?username=mdtech5&label=Profile%20views&color=0e75b6&style=flat" alt="Mawantha5336" " />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mawantha+Deeganu!;+I'm+Software+Engineer!;+I'm+Full-stack+Developer!;+I'm+Tutor!;" />
@@ -74,9 +74,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" img src="https://github.com/Mawantha5336/Mawantha5336/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+
   <br/><br/><br/>
 </div>
 
@@ -91,12 +89,12 @@
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Stats<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mdtech5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mdtech5&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mawantha5336&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Mawantha5336&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
  
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtech5&theme=react)](https://github.com/mdtech5/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mawantha5336&theme=react)](https://github.com/Mawantha5336/github-readme-stats)
 </div>
 
 <br/><br/>
